@@ -35,7 +35,7 @@ Based on CIFAR-10:
 - ship
 - truck
 
-(Only animal categories are used in the inference UI)
+![image](https://github.com/user-attachments/assets/5e0f10ea-6d83-4173-b141-42dcf824f57e)
 
 ## Setup Instructions
 
@@ -59,6 +59,7 @@ python ai_inference.py
 ```
 
 Then open `http://localhost:5000` in your browser.
+
 ![image](https://github.com/user-attachments/assets/28998cf2-ac20-425f-8938-ca44678044e8)
 
 
