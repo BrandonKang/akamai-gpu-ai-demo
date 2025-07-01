@@ -60,8 +60,7 @@ python ai_inference.py
 
 Then open `http://localhost:5000` in your browser.
 
-![image](https://github.com/user-attachments/assets/28998cf2-ac20-425f-8938-ca44678044e8)
-
+![image](https://github.com/user-attachments/assets/b761e0c3-d707-43c8-9f47-1ff57d6c7aba)
 
 ## GPU Support
 
