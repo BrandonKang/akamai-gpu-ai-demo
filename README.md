@@ -5,7 +5,7 @@ This is a simple AI demo project that trains an image classification model using
 ## Features
 
 - Fine-tuned ResNet18 model using CIFAR-10 dataset
-- Trained on NVIDIA RTX 4000 Ada GPU
+- Trained on NVIDIA RTX 4000 Ada GPU * 2EA (Just one GPU may not working)
 - Flask-based web interface for image URL-based prediction
 - GPU-accelerated inference supported
 
@@ -41,7 +41,7 @@ Based on CIFAR-10:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/akamai-gpu-ai-demo.git
+git clone https://github.com/BrandonKang/akamai-gpu-ai-demo.git
 cd akamai-gpu-ai-demo
 
 # 2. Create virtual environment
