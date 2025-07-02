@@ -1,6 +1,7 @@
 # Object Classifier with CIFAR-10 and ResNet18
 
 This is a simple AI demo project that trains an image classification model using the CIFAR-10 dataset and ResNet18 architecture. The trained model is then used to predict the category of an animal image via a simple web UI.
+All of the services are running on an Akamai Cloud's GPU instance with NVIDIA RTX 4000 Ada * 2 Units.
 
 ## Features
 
